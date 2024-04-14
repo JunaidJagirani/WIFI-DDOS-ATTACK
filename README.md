@@ -21,7 +21,7 @@ cd WIFI-DDOS-ATTACK
 3. **Ensure Script is Executable:**
 Before running the script, ensure that it has executable permissions. If not, grant execute permission using the following command:
 
-'chmod +x wifi-ddos.sh'
+''chmod +x wifi-ddos.sh''
    
 
 4. **Run the Script:**
