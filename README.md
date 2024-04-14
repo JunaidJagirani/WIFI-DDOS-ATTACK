@@ -22,7 +22,7 @@ cd WIFI-DDOS-ATTACK
 Before running the script, ensure that it has executable permissions. If not, grant execute permission using the following command:
 
 ''chmod +x wifi-ddos.sh''
-   
+   ./<wifi.sh>
 
 4. **Run the Script:**
 
